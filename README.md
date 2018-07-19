@@ -1,7 +1,10 @@
 # GradleTimePlugin
 This a gradle plugin for showing how much time the project take to compile.
-#how to use
-in the project gradle file
+
+how to use
+===========
+
+In the project gradle file
 ```
 buildscript {
     repositories {
